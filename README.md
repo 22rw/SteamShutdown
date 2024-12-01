@@ -1,3 +1,6 @@
+# About this fork
+This fork holds my crappy darkmode implementation for the WinForms NotifyIcon.ContextMenu
+
 # SteamShutdown
 Automatic shutdown after Steam downloads have finished.
 
